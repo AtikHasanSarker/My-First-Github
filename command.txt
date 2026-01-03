@@ -1,0 +1,22 @@
+***primary work
+#1 one time each project to start git
+git init
+#2 every time to add
+git add .
+#3 every time you commit
+git commit -m "first commit"
+#4 one time each project to start git 
+git branch -M main
+#5 one time each project to start git
+git remote add origin https://github.com/AtikHasanSarker/My-First-Github.git
+#6 one time each project to start git
+git push -u origin main
+
+
+**after primary every time when you need to change your code then you need to fo it.
+#1
+git add .
+#2
+git commit -m "your commit"
+#3
+git push
